@@ -86,16 +86,16 @@
 					<case value="Darkness"><link block="darkness" /></case>
 					<case value="Fire"><link block="fire" /></case>
 					<case value="Nature"><link block="nature" /></case>
-					<case value="Light / Water"><link block="light" /><link block="halfwater" /></case>
-					<case value="Water / Darkness"><link block="water" /><link block="halfdarkness" /></case>
-					<case value="Darkness / Fire"><link block="darkness" /><link block="halffire" /></case>
-					<case value="Fire / Nature"><link block="fire" /><link block="halfnature" /></case>
-					<case value="Light / Nature"><link block="light" /><link block="halfnature" /></case>
-					<case value="Light / Fire"><link block="light" /><link block="halffire" /></case>
-					<case value="Water / Nature"><link block="water" /><link block="halfnature" /></case>
-					<case value="Light / Darkness"><link block="light" /><link block="halfdarkness" /></case>
-					<case value="Water / Fire"><link block="water" /><link block="halffire" /></case>
-					<case value="Darkness / Nature"><link block="darkness" /><link block="halfnature" /></case>
+					<case value="Light/Water"><link block="light" /><link block="halfwater" /></case>
+					<case value="Water/Darkness"><link block="water" /><link block="halfdarkness" /></case>
+					<case value="Darkness/Fire"><link block="darkness" /><link block="halffire" /></case>
+					<case value="Fire/Nature"><link block="fire" /><link block="halfnature" /></case>
+					<case value="Light/Nature"><link block="light" /><link block="halfnature" /></case>
+					<case value="Light/Fire"><link block="light" /><link block="halffire" /></case>
+					<case value="Water/Nature"><link block="water" /><link block="halfnature" /></case>
+					<case value="Light/Darkness"><link block="light" /><link block="halfdarkness" /></case>
+					<case value="Water/Fire"><link block="water" /><link block="halffire" /></case>
+					<case value="Darkness/Nature"><link block="darkness" /><link block="halfnature" /></case>
 				</switch>
 			</conditional>
 		</overlayblocks>
