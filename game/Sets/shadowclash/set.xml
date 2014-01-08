@@ -43,7 +43,7 @@
 		<card name="Ballom, Master of Death" id="853c7044-da1c-4d5d-89dd-bc9cde3d4c5c">
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="8" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Demon Command" />
 			<property name="Rules" value="Evolution-Put on one of your Demon Commands. &#xd;&#xa;When you put this creature into the battle zone, destroy all creatures except darkness creatures. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="12000" />
@@ -63,7 +63,7 @@
 		<card name="Niofa, Horned Protector" id="b3522e85-ef30-4f4d-8a4a-f7db726fbf1d">
 			<property name="Civilization" value="Nature" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Horned Beast" />
 			<property name="Rules" value="Evolution-Put on one of your Horned Beasts. &#xd;&#xa;When you put this creature into the battle zone, search your deck. You may take a nature creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="9000" />
@@ -73,7 +73,7 @@
 		<card name="Alcadeias, Lord of Spirits" id="dffe10d4-b421-4cb8-9f47-d927e45588f6">
 			<property name="Civilization" value="Light" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Angel Command" />
 			<property name="Rules" value="Evolution-Put on one of your Angel Commands. &#xd;&#xa;Double breaker (This creature breaks 2 shields.) &#xd;&#xa;Players can't cast spells other than light spells." />
 			<property name="Power" value="12500" />
@@ -83,7 +83,7 @@
 		<card name="Astral Warper" id="3be672e1-1722-4528-af1e-027f66ec067e">
 			<property name="Civilization" value="Water" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Cyber Virus" />
 			<property name="Rules" value="Evolution-Put on one of your Cyber Viruses. &#xd;&#xa;When you put this creature into the battle zone, draw up to 3 cards." />
 			<property name="Power" value="5000" />
@@ -103,7 +103,7 @@
 		<card name="Doboulgyser, Giant Rock Beast" id="8f9cd841-d074-4164-a916-7f1a94a86f24">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Rock Beast" />
 			<property name="Rules" value="Evolution-Put on one of your Rock Beasts. &#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your opponent's creatures that has power 3000 or less. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="8000" />

@@ -143,7 +143,7 @@
 		<card name="Sieg Balicula, the Intense" id="6e3eb447-f95e-4ab7-8de5-36d683195977">
 			<property name="Civilization" value="Light" />
 			<property name="Cost" value="3" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Initiate" />
 			<property name="Rules" value="Evolution-Put on one of your Initiates. &#xd;&#xa;Each of your other light creatures in the battle zone has &quot;blocker.&quot; (Whenever one of your opponent's creatures attacks, you may tap a creature that has &quot;blocker&quot; to stop the attack. Then the 2 creatures battle.)" />
 			<property name="Power" value="5000" />
@@ -243,7 +243,7 @@
 		<card name="Legendary Bynor" id="f6f665e4-31de-4e39-82cb-3d2d243a4720">
 			<property name="Civilization" value="Water" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Leviathan" />
 			<property name="Rules" value="Evolution-Put on one of your Leviathans. &#xd;&#xa;Your other water creatures in the battle zone can't be blocked. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="8000" />
@@ -353,7 +353,7 @@
 		<card name="Jack Viper, Shadow of Doom" id="27efdbee-42d6-4ca4-ae7d-6726da95f58d">
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="3" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Ghost" />
 			<property name="Rules" value="Evolution-Put on one of your Ghosts. &#xd;&#xa;Whenever another of your darkness creatures would be put into your graveyard from the battle zone, you may return it to your hand instead." />
 			<property name="Power" value="4000" />
@@ -493,7 +493,7 @@
 		<card name="Überdragon Jabaha" id="8c0c6cfb-96c8-4830-bc45-2aef9e93ac08">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="7" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Armored Dragon" />
 			<property name="Rules" value="Evolution-Put on one of your Armored Dragons. &#xd;&#xa;Each of your other fire creatures in the battle zone has &quot;power attacker +2000.&quot; (While attacking, a creature that has &quot;power attacker +2000&quot; gets +2000 power.) &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="11000" />
@@ -533,7 +533,7 @@
 		<card name="Gigamantis" id="7a6ddc36-3e41-479d-a11e-a5c85fb47fc9">
 			<property name="Civilization" value="Nature" />
 			<property name="Cost" value="4" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Giant Insect" />
 			<property name="Rules" value="Evolution-Put on one of your Giant Insects. &#xd;&#xa;Whenever another of your nature creatures would be put into your graveyard from the battle zone, put it into your mana zone instead." />
 			<property name="Power" value="5000" />

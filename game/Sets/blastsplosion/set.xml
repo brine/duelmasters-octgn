@@ -23,7 +23,7 @@
 		<card name="Warlord Ailzonius" id="72036136-a91a-49cc-a2dc-cd1cd0b78634">
 			<property name="Civilization" value="Light" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Gladiator" />
 			<property name="Rules" value="Evolution-Put on one of your Gladiators.  &#xd;&#xa;Double breaker (This creature breaks 2 shields.) &#xd;&#xa;Whenever your opponent would choose a creature in the battle zone, he can't choose this one. (It can still be attacked and blocked.)" />
 			<property name="Power" value="8000" />
@@ -73,7 +73,7 @@
 		<card name="Evil Incarnate" id="b422db37-147f-4736-aeaf-9727b09d6b1b">
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Devil Mask" />
 			<property name="Rules" value="Evolution-Put on one of your Devil Masks. &#xd;&#xa;At the start of each player's turn, that player chooses one of his creatures and destroys it.  &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="11000" />
@@ -93,7 +93,7 @@
 		<card name="Diamondia, the Blizzard Rider" id="d300935b-c954-4506-b031-9435e83a76e0">
 			<property name="Civilization" value="Nature" />
 			<property name="Cost" value="3" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Snow Faerie" />
 			<property name="Rules" value="Evolution-Put on one of your Snow Faeries. &#xd;&#xa;When you put this creature into the battle zone, return all Snow Faeries from your graveyard and your mana zone to your hand." />
 			<property name="Power" value="5000" />
@@ -443,7 +443,7 @@
 		<card name="Jabaha's Automaton" id="f86cb432-ec79-46c0-8fca-2999ee1370bb">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="XenoParts" />
 			<property name="Rules" value="Evolution-Put on one of your XenoParts. &#xd;&#xa;Power attacker +4000 (While attacking, this creature gets +4000 power.) &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="6000+" />

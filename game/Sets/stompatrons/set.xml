@@ -23,7 +23,7 @@
 		<card name="Craze Valkyrie, the Drastic" id="ecdfe127-b3e9-46fc-b541-31096d175c4f">
 			<property name="Civilization" value="Light" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Initiate" />
 			<property name="Rules" value="Evolution-Put on one of your Initiates. &#xd;&#xa;When you put this creature into the battle zone, choose up to 2 of your opponent's creatures in the battle zone and tap them. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="7500" />
@@ -33,7 +33,7 @@
 		<card name="Ultra Mantis, Scourge of Fate" id="1fc003f3-0ed1-4e6f-a6ef-ce6eb001ca30">
 			<property name="Civilization" value="Nature" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Giant Insect" />
 			<property name="Rules" value="Evolution-Put on one of your Giant Insects. &#xd;&#xa;This creature can't be blocked by any creature that has power 8000 or less. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="9000" />
@@ -53,7 +53,7 @@
 		<card name="Crystal Jouster" id="ae6acae0-e972-44cd-9a45-6ff9a3d7645f">
 			<property name="Civilization" value="Water" />
 			<property name="Cost" value="7" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Liquid People" />
 			<property name="Rules" value="Evolution-Put on one of your Liquid People. &#xd;&#xa;Double breaker (This creature breaks 2 shields.) &#xd;&#xa;When this creature would be destroyed, return it to your hand instead." />
 			<property name="Power" value="7000" />
@@ -63,7 +63,7 @@
 		<card name="Q-tronic Hypermind" id="18e93de7-7632-4dd5-b7d1-d5b8df07532a">
 			<property name="Civilization" value="Water" />
 			<property name="Cost" value="8" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Survivor" />
 			<property name="Rules" value="Evolution-Put on one of your Survivors. &#xd;&#xa;When you put this creature into the battle zone, you may draw a card for each Survivor in the battle zone. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="8000" />
@@ -83,7 +83,7 @@
 		<card name="Phantasmal Horror Gigazald" id="cd977acd-3977-4c30-add1-907704d51d1e">
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Chimera" />
 			<property name="Rules" value="Evolution-Put on one of your Chimeras. &#xd;&#xa;Each of your darkness creatures may tap instead of attacking to use this creature's {TAP} ability. &#xd;&#xa;{TAP} Your opponent discards a card at random from his hand." />
 			<property name="Power" value="5000" />
@@ -103,7 +103,7 @@
 		<card name="Lava Walker Executo" id="05378f46-7cb2-487b-bafd-511fe750b83d">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="4" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Dragonoid" />
 			<property name="Rules" value="Evolution-Put on one of your Dragonoids. &#xd;&#xa;Each of your fire creatures may tap instead of attacking to use this creature's {TAP} ability. &#xd;&#xa;{TAP} One of your fire creatures in the battle zone gets +3000 power until the end of the turn." />
 			<property name="Power" value="5000" />
@@ -233,7 +233,7 @@
 		<card name="Arc Bine, the Astounding" id="a5984716-cd5a-49bd-a596-83749a924cac">
 			<property name="Civilization" value="Light" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Guardian" />
 			<property name="Rules" value="Evolution-Put on one of your Guardians. &#xd;&#xa;Each of your light creatures may tap instead of attacking to use this creature's {TAP} ability. &#xd;&#xa;{TAP} Choose one of your opponent's creatures in the battle zone and tap it." />
 			<property name="Power" value="5000" />
@@ -443,7 +443,7 @@
 		<card name="Fort Megacluster" id="681dc3ff-66eb-4105-bad4-9a7ad9f0b204">
 			<property name="Civilization" value="Water" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Cyber Cluster" />
 			<property name="Rules" value="Evolution-Put on one of your Cyber Clusters. &#xd;&#xa;Each of your water creatures may tap instead of attacking to use this creature's {TAP} ability. &#xd;&#xa;{TAP} Draw a card." />
 			<property name="Power" value="5000" />
@@ -653,7 +653,7 @@
 		<card name="Frost Specter, Shadow of Age" id="89c024ab-20b8-4f56-a71d-e08af9e27570">
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="3" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Ghost" />
 			<property name="Rules" value="Evolution-Put on one of your Ghosts. &#xd;&#xa;Each of your Ghosts in the battle zone has &quot;slayer.&quot; (Whenever a creature that has &quot;slayer&quot; battles, destroy the other creature after the battle.)" />
 			<property name="Power" value="5000" />
@@ -823,7 +823,7 @@
 		<card name="Armored Decimator Valkaizer" id="8432eb60-1b6c-42c8-9e02-d83317dbdd27">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Human" />
 			<property name="Rules" value="Evolution-Put on one of your Humans. &#xd;&#xa;When you put this creature into the battle zone, you may destroy one of your opponent's creatures that has power 4000 or less." />
 			<property name="Power" value="5000" />
@@ -973,7 +973,7 @@
 		<card name="Q-tronic Gargantua" id="23c7ec2d-c9f6-4c52-9139-2f7f21467d6f">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Survivor" />
 			<property name="Rules" value="Evolution-Put on one of your Survivors. &#xd;&#xa;Crew breaker-Survivor (This creature breaks one more shield for each of your other {SURVIVOR}s in the battle zone.)" />
 			<property name="Power" value="9000" />
@@ -1153,7 +1153,7 @@
 		<card name="Living Citadel Vosh" id="f2d62944-fff9-4194-a47b-295b6eea174b">
 			<property name="Civilization" value="Nature" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Colony Beetle" />
 			<property name="Rules" value="Evolution-Put on one of your Colony Beetles. &#xd;&#xa;Each of your nature creatures may tap instead of attacking to use this creature's {TAP} ability. &#xd;&#xa;{TAP} Put the top card of your deck into your mana zone." />
 			<property name="Power" value="5000" />

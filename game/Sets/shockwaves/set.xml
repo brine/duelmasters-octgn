@@ -273,7 +273,7 @@
 		<card name="Glais Mejicula, the Extreme" id="5650f3a1-6103-41e4-8b1c-1c4ddd732f47">
 			<property name="Civilization" value="Light" />
 			<property name="Cost" value="2" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Initiate" />
 			<property name="Rules" value="Evolution-Put on one of your Initiates. &#xd;&#xa;Whenever one of your shields would be broken, you may discard 2 cards from your hand instead." />
 			<property name="Power" value="5500" />
@@ -443,7 +443,7 @@
 		<card name="Crystal Spinslicer" id="1e1811b2-0f99-4c2d-9d01-8f1f7f506b99">
 			<property name="Civilization" value="Water" />
 			<property name="Cost" value="2" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Liquid People" />
 			<property name="Rules" value="{BLOCKER} (Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.) &#xd;&#xa;Evolution-Put on one of your Liquid People." />
 			<property name="Power" value="5000" />
@@ -723,7 +723,7 @@
 		<card name="Zero Nemesis, Shadow of Panic" id="3e94a4bf-68bb-4f16-a003-d31890d6ef24">
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="6" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Ghost" />
 			<property name="Rules" value="Evolution-Put on one of your Ghosts. &#xd;&#xa;Whenever one of your creatures attacks, your opponent discards a card at random from his hand. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="6000" />
@@ -733,7 +733,7 @@
 		<card name="Armored Raider Gandaval" id="3893c948-e931-47ce-87de-8d88d362bc04">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Human" />
 			<property name="Rules" value="Evolution-Put on one of your Humans. &#xd;&#xa;While attacking, this creature gets +2000 power for each of your other tapped creatures in the battle zone. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="6000" />
@@ -933,7 +933,7 @@
 		<card name="Earth Ripper, Talon of Rage" id="5dbd5ca0-3ae3-4927-9b97-67df3341a3e7">
 			<property name="Civilization" value="Nature" />
 			<property name="Cost" value="4" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Beast Folk" />
 			<property name="Rules" value="Evolution-Put on one of your Beast Folk. &#xd;&#xa;When you put this creature into the battle zone, return all tapped cards from your mana zone to your hand. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="6000" />

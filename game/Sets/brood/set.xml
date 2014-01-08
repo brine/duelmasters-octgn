@@ -73,7 +73,7 @@
 		<card name="Glena Vuele, the Hypnotic" id="24d9b21e-e5a4-441f-86d7-5a103e5796ee">
 			<property name="Civilization" value="Light" />
 			<property name="Cost" value="5" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Guardian" />
 			<property name="Rules" value="Evolution-Put on one of your Guardians. &#xd;&#xa;Double breaker (This creature breaks 2 shields.) &#xd;&#xa;Whenever your opponent uses the &quot;shield trigger&quot; ability of one of his shields, you may add the top card of your deck to your shields face down." />
 			<property name="Power" value="8500" />
@@ -93,7 +93,7 @@
 		<card name="Azaghast, Tyrant of Shadows" id="852ff656-0ec6-4e29-898b-440838fc084c">
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="7" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Dark Lord" />
 			<property name="Rules" value="Evolution-Put on one of your Dark Lords. &#xd;&#xa;Whenever you put a Ghost into the battle zone, you may destroy one of your opponent's untapped creatures. &#xd;&#xa;Double breaker (This creature breaks 2 shields.)" />
 			<property name="Power" value="9000" />
@@ -103,7 +103,7 @@
 		<card name="Balesk Baj, the Timeburner" id="5f8d239d-56a8-40a6-ba5b-fb5a3d265bc8">
 			<property name="Civilization" value="Fire" />
 			<property name="Cost" value="9" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Armored Wyvern" />
 			<property name="Rules" value="Evolution-Put on one of your Armored Wyverns. &#xd;&#xa;Whenever this creature is attacking your opponent and isn't blocked, take an extra turn after this one. &#xd;&#xa;Double breaker (This creature breaks 2 shields.) &#xd;&#xa;At the end of your turn, return this creature to your hand." />
 			<property name="Power" value="8000" />
@@ -233,7 +233,7 @@
 		<card name="Emperor Maroll" id="adb1ac70-aaba-499b-8b98-08be869de35f">
 			<property name="Civilization" value="Water" />
 			<property name="Cost" value="3" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Cyber Lord" />
 			<property name="Rules" value="Evolution-Put on one of your Cyber Lords. &#xd;&#xa;Whenever you put another creature into the battle zone, return this creature to your hand. &#xd;&#xa;Whenever this creature becomes blocked, return the blocking creature to its owner's hand. (This creature stays tapped.)" />
 			<property name="Power" value="5000" />
@@ -573,7 +573,7 @@
 		<card name="Storm Wrangler, the Furious" id="34345ca9-9c90-4632-8db6-9d1f70e46750">
 			<property name="Civilization" value="Nature" />
 			<property name="Cost" value="4" />
-			<property name="Type" value="Evolution" />
+			<property name="Type" value="Evolution Creature" />
 			<property name="Race" value="Beast Folk" />
 			<property name="Rules" value="Evolution-Put on one of your Beast Folk. &#xd;&#xa;Whenever this creature attacks, you may choose one of your opponent's untapped creatures that has &quot;blocker.&quot; This turn, that creature blocks this creature if able and this creature can't be blocked by other creatures. &#xd;&#xa;Whenever this creature becomes blocked, it gets +3000 power until the end of the turn." />
 			<property name="Power" value="5000+" />
