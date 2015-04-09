@@ -245,9 +245,8 @@ def randomDiscard(group, x = 0, y = 0):
     if len(group) == 0: return
     card = group.random()
     toDiscard(card, notifymute = True)
-    if notifymute == False:
-        rnd(1,10)
-        notify("{} randomly discards {}.".format(me, card))
+    rnd(1,10)
+    notify("{} randomly discards {}.".format(me, card))
 
 def mana(group, x = 0, y = 0):
     mute()
