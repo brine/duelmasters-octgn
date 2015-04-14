@@ -174,7 +174,8 @@
 			<property name="Civilization" value="Darkness" />
 			<property name="Cost" value="4" />
 			<property name="Type" value="Creature" />
-			<property name="Race" value="Hedrian" />&#xd;&#xa;{WAVE STRIKER} : When this creature is put into Battle Zone, destroy all creatures." />
+			<property name="Race" value="Hedrian" />
+			<property name="Rules" value="{WAVE STRIKER} : When this creature is put into Battle Zone, destroy all creatures." />
 			<property name="Power" value="3000" />
 			<property name="Rarity" value="R" />
 			<property name="Number" value="11" />
@@ -609,7 +610,16 @@
 			<property name="Rarity" value="C" />
 			<property name="Number" value="54" />
 		</card>
-
+		<card name="Uncanny Turnip" id="b3b501d1-8619-472c-88de-b7b213cf5fb7">
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Wild Veggies" />
+			<property name="Rules" value="{WAVE STRIKER} : When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then put a creature from your mana zone into your hand." />
+			<property name="Power" value="1000" />
+			<property name="Rarity" value="C" />
+			<property name="Number" value="55" />
+		</card>
 
 	</cards>
 </set>
