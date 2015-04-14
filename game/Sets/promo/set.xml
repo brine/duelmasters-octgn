@@ -100,7 +100,7 @@
 		
 		<card name="Olgate, Nightmare Samurai" id="8ddad0f5-391a-404f-8977-5e628ffed10c">
 			<property name="Civilization" value="Darkness" />
-			<property name="Cost" value="" />
+			<property name="Cost" value="7" />
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Demon Command" />
 			<property name="Rules" value="Double Breaker. &#xd;&#xa;Whenever one of your creatures is destroyed, you may untap this creature." />
