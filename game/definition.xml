@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	id="1ead741b-ea53-499e-94f1-f5eafe3d8518" version="3.0.1.1" octgnVersion="3.1.30.0"
+	id="1ead741b-ea53-499e-94f1-f5eafe3d8518" version="3.0.1.1" octgnVersion="3.1.30.0" scriptVersion="3.1.0.0"
 	name="Duel Masters" tags="Duel Masters, Kaijudo" description="Duel Masters TCG"
 	setsurl="http://octgn.gamersjudgement.com/wordpress/duelmasters/images/" gameurl="http://octgn.gamersjudgement.com/wordpress/duelmasters/" authors="brine"
 	markersize="18" iconurl="https://raw.github.com/brine/duelmasters-octgn/master/game/cards/logo.jpg" >
@@ -29,6 +29,7 @@
 		<groupaction menu="Roll Die" shortcut="ctrl+R" execute="rollDie" />
 		<groupaction menu="Set Die Type" shortcut="ctrl+shift+R" execute="setDie" />
 		<groupaction menu="Set Up Battlezone" execute="setup" />
+		<groupaction menu="End Turn" shortcut="ctrl+E" execute="endTurn" />
 		<cardaction menu="Tap / Untap" default="True" shortcut="ctrl+G" execute="tap" />
 		<cardaction menu="Banish Card / Break Shield" shortcut="del" execute="banish" />
 		<cardaction menu="Set as Shield" shortcut="ctrl+H" execute="toShields" />
@@ -55,7 +56,7 @@
 			<groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
 			<groupaction menu="Discard Top Card" execute="mill" />
 			<groupaction menu="Discard Top X Cards" execute="millX" />
-			<groupaction menu="Charge Top Card as Mana" execute="mana" />
+			<groupaction menu="Charge Top Card as Mana" shortcut="ctrl+M" execute="mana" />
 		</group>
 		<group name="Discard Pile" visibility="all" ordered="False" width="63" height="88" shortcut="del" icon="groups/discard.png" collapsed="False" />
 	</player>
